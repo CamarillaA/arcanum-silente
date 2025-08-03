@@ -1,6 +1,7 @@
 # arcanum-silente
 Um blog de curiosidades 
-<!DOCTYPE html>
+arcanum-silente/
+├── index.html> <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
